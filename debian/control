@@ -20,11 +20,6 @@ Build-Depends:
  pkg-config,
  python3,
  scons,
-Build-Depends-Indep:
- pyqt5-dev-tools,
- python3-dbus,
- python3-dbus.mainloop.pyqt5,
- python3-pyqt5,
 Standards-Version: 4.6.0
 Section: libs
 Homepage: http://www.ffado.org/
